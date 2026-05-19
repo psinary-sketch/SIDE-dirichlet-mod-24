@@ -1,0 +1,6 @@
+name = "SIDEDirichletMod24"
+version = "0.1.0"
+defaultTargets = ["SIDEDirichletMod24"]
+
+[[lean_lib]]
+name = "SIDEDirichletMod24"
